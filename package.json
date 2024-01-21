@@ -1,0 +1,23 @@
+{
+  "name": "useinsider-test-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testcas.spec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-petrusha/useinsider-test-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-petrusha/useinsider-test-task/issues"
+  },
+  "homepage": "https://github.com/a-petrusha/useinsider-test-task#readme",
+  "dependencies": {
+    "cypress": "^13.6.3"
+  }
+}
